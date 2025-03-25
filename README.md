@@ -19,10 +19,3 @@ Optimizing everything.
     Adaptive Load Balancer – Smart traffic distribution using Rust & eBPF.
 
     Real-Time Data Platform – Financial data streaming & analytics with Kafka + ClickHouse.
-
-🔹 Philosophy
-
-Optimize. Scale. Master.
-
-No fluff, no distractions—just pure engineering excellence. Let me know if you want any tweaks.
-
